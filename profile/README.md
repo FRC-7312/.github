@@ -1,12 +1,15 @@
-## Welcome to the offical github for T3 Robotics
+![alt text](T3-Logo.png)
+# Welcome to FRC Team 7312 - T3
 
-<!--
+## About Us
+We are FRC Team 7312, a robotics team participating in the FIRST Robotics Competition. Our mission is to inspire innovation, foster teamwork, and promote STEM education in our community.
 
-**Here are some ideas to get you started:**
+## Thank You to Our Sponsors
+We would like to thank our sponsors for their generous support:
+- Generator Supercenter
+- Burns McDonnell
+- Bechtel
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+*“Teamwork, Thinking, Technology.”*
