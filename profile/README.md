@@ -1,4 +1,3 @@
-![alt text](T3-Logo.png)
 # Welcome to FRC Team 7312 - T3
 
 ## About Us
